@@ -1,0 +1,11 @@
+#doodle{ height: 200px; width: 450px; position:absolute; right:240px; top:100px;}
+.small{ height:20px; width:20px;}
+li{ display:inline;}
+ul{ left:700px; position:absolute;}
+.navbar{font-size:18px;}
+#search{ height:50px; width:500px; position:absolute; top:300px; right:240px;}
+p{ font-size:120%; display:inline; background-color:blue; border: 2px dashed black;}
+#first{ top:350px; left:375px;position:absolute;}
+#second{ top:350px; left:525px;position:absolute;}
+td img{ height:100px; width:120px; }
+table{border:none; top:420px; position:absolute;right:240px; }
